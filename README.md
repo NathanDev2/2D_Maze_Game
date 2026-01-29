@@ -1,6 +1,9 @@
 Authors: Anguna Qneergg, Vfznry Nathyb
 
 
+UPDATE: Included a Menu.exe file to make it easier to start up program without needing to manually compile and run on machine via the steps below. 
+Bug Fixes: removed a issue that was interfering with compiling the cpp and .h files
+
 Steps to Use Program
 1) Download Zip File
 2) Extract Files
@@ -41,6 +44,7 @@ The following txt files are 5 orignal maps found in the *Map* folder for your co
 **map3.txt**
 **map4.txt**
 **map5.txt**
+
 
 
 
